@@ -38,4 +38,4 @@ venv\Scripts\activate
 
 ```(venv)PS
 python -m pip install streamlit
-ptython -m streamlit run app.py
+python -m streamlit run app.py
